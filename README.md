@@ -16,3 +16,5 @@ The dataset used for this class was extracted from a SQL database by the instruc
 - Microsoft SQL Server for extracting data
 - Microsoft Excel / CSV for data cleaning [Download](http://www.microsoft.com)
 - Power BI Desktop (Data modelling, analysis and report building).
+
+
