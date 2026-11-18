@@ -18,3 +18,9 @@ The dataset used for this class was extracted from a SQL database by the instruc
 - Power BI Desktop (Data modelling, analysis and report building).
 
 
+<img width="488" height="262" alt="Performance report 1" src="https://github.com/user-attachments/assets/5b3beb47-4cd0-46d9-8dae-e087e5606357" />
+
+_
+
+<img width="491" height="280" alt="Performance report 2" src="https://github.com/user-attachments/assets/0c6e3fc7-9ec0-4909-9199-8a0cd5d1dc7a" />
+
